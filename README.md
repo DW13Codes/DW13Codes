@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DW13Codes!
+- 👋 Hi, I’m DW13Codes!
 - 👀 I’m interested in DevOps.
 - 🌱 I’m currently learning ...git and github
 - 💞️ I’m looking to collaborate on great AWS projects.
