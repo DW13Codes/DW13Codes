@@ -1,8 +1,8 @@
-- 👋 Hi, I’m DW13Codes!
-- 👀 I’m interested in DevOps.
-- 🌱 I’m currently learning ...git and github
-- 💞️ I’m looking to collaborate on great AWS projects.
-- 📫 How to reach me is through email at danielle.wormley13@gmail.com
+- 👋 Hi, I’m Danielle Wormley and this is my repo, DW13Codes!
+- 👀 I’m transitioning careers from public policy to DevOps.
+- 🌱 I’m currently learning Linux, AWS, Git, and Terraform!
+- 💞️ I’m looking to collaborate on great projects.
+- 📫 Reach me through email at danielle.wormley13@gmail.com
 
 <!---
 DW13Codes/DW13Codes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
