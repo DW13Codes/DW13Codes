@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Danielle Wormley and this is my repo, DW13Codes!
-- 👀 I’m transitioning careers from public policy to DevOps.
+- 👀 I’m a junior DevOps Engineer pivoting from public policy analysis.
 - 🌱 I’m currently learning Linux, AWS, Git, and Terraform!
 - 💞️ I’m looking to collaborate on great projects.
 - 📫 Reach me through email at danielle.wormley13@gmail.com
